@@ -1,0 +1,5 @@
+package com.controlproductos.api.models;
+
+public enum ERole {
+	ROLE_USER, ROLE_MODERATOR, ROLE_ADMIN
+}
